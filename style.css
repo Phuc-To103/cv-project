@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://images.pexels.com/photos/2775196/pexels-photo-2775196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  }
+  
+  .title{
+    color: red
+  }
+  #choose-color{
+    color: rgb(0, 255, 234)
+  }
+  
+  /* #contact-link:link{
+  color:blue
+  }
+  
+  #contact-link:visited{
+    color:violet
+  } */
+  
+  h3 + a{
+    color: red
+  }
+  
+  ul > li{
+    color : green
+  }
+  
+  textarea ~ input{
+    color: red
+  }
